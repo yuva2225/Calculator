@@ -24,10 +24,9 @@ JavaScript – Handles calculations and user interactions
 https://yuvacalculator.netlify.app/
 
 ## Screenshots
-![pic1](https://github.com/user-attachments/assets/eead6120-e810-4e4f-8856-9b35ad70b8d7)
+![pic1](https://github.com/user-attachments/assets/5439235e-bf42-469a-842d-b0636ea1e4ed)
 
-![pic2](https://github.com/user-attachments/assets/4a2c9209-32e5-4728-8cc2-a9ab07c507ac)
+![pic2](https://github.com/user-attachments/assets/4b592690-803d-454c-8b58-c27b0b42f79c)
 
-![pic3](https://github.com/user-attachments/assets/60c05c83-ce25-4df1-b94e-7436ac00cd14)
 
 
